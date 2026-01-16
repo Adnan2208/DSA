@@ -1,16 +1,20 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        unordered_map<int,int> umpp;
+        
+        int n = nums.size();
+        int totalSum = (n * (n+1))/2;
+        int ans = 0;
+
         for(int i=0; i<nums.size(); i++){
-            umpp[nums[i]]++;
+            ans+= nums[i];
         }
 
-        for(int i=0; i<=nums.size(); i++){
-            if(umpp.find(i) == umpp.end()){
-                return i;
-            }
-        }
-        return -1;
+        return totalSum - ans;
+
+        
+
+
+
     }
 };
