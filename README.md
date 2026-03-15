@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Adnan2208/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Adnan2208/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Adnan2208/DSA/tree/master/0268-missing-number) |
+| [1622-fancy-sequence](https://github.com/Adnan2208/DSA/tree/master/1622-fancy-sequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -131,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adnan2208/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Adnan2208/DSA/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Adnan2208/DSA/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
