@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adnan2208/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Adnan2208/DSA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adnan2208/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Adnan2208/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Adnan2208/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Adnan2208/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Adnan2208/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Adnan2208/DSA/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Adnan2208/DSA/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Adnan2208/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adnan2208/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Adnan2208/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Adnan2208/DSA/tree/master/0645-set-mismatch) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Adnan2208/DSA/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Adnan2208/DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Adnan2208/DSA/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Adnan2208/DSA/tree/master/0912-sort-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Adnan2208/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Hash Table
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adnan2208/DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Adnan2208/DSA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Adnan2208/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adnan2208/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Adnan2208/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Adnan2208/DSA/tree/master/0268-missing-number) |
