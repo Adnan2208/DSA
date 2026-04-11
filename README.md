@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adnan2208/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adnan2208/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Adnan2208/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Adnan2208/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Adnan2208/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adnan2208/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Adnan2208/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Adnan2208/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Math
 |  |
 | ------- |
