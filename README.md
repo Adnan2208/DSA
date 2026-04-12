@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Adnan2208/DSA/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/Adnan2208/DSA/tree/master/0657-robot-return-to-origin) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Adnan2208/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Adnan2208/DSA/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2351-first-letter-to-appear-twice](https://github.com/Adnan2208/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Adnan2208/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adnan2208/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Adnan2208/DSA/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Adnan2208/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
+## Greedy
+|  |
+| ------- |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Adnan2208/DSA/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 <!---LeetCode Topics End-->
