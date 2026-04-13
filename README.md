@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Adnan2208/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adnan2208/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/Adnan2208/DSA/tree/master/0912-sort-an-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Adnan2208/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adnan2208/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adnan2208/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adnan2208/DSA/tree/master/3643-flip-square-submatrix-vertically) |
