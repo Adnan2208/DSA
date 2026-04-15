@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adnan2208/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/Adnan2208/DSA/tree/master/0912-sort-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Adnan2208/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Adnan2208/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adnan2208/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adnan2208/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adnan2208/DSA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Adnan2208/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Adnan2208/DSA/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2351-first-letter-to-appear-twice](https://github.com/Adnan2208/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Adnan2208/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Adnan2208/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adnan2208/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Trie
