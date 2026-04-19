@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adnan2208/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Adnan2208/DSA/tree/master/1470-shuffle-the-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Adnan2208/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Adnan2208/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/Adnan2208/DSA/tree/master/1929-concatenation-of-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Adnan2208/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adnan2208/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Adnan2208/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Adnan2208/DSA/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Adnan2208/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Adnan2208/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adnan2208/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adnan2208/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Adnan2208/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adnan2208/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Adnan2208/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sorting
 |  |
 | ------- |
