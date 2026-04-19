@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adnan2208/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Adnan2208/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Adnan2208/DSA/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Adnan2208/DSA/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adnan2208/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Adnan2208/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Adnan2208/DSA/tree/master/0344-reverse-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Adnan2208/DSA/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Adnan2208/DSA/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Adnan2208/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Adnan2208/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adnan2208/DSA/tree/master/0217-contains-duplicate) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Adnan2208/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Adnan2208/DSA/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Adnan2208/DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Adnan2208/DSA/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Adnan2208/DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Adnan2208/DSA/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Adnan2208/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Adnan2208/DSA/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Adnan2208/DSA/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Adnan2208/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Database
 |  |
