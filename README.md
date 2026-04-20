@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Adnan2208/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Adnan2208/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/Adnan2208/DSA/tree/master/1929-concatenation-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Adnan2208/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Adnan2208/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adnan2208/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adnan2208/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -228,4 +229,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Adnan2208/DSA/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Adnan2208/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
