@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Adnan2208/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Adnan2208/DSA/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/Adnan2208/DSA/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/Adnan2208/DSA/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/Adnan2208/DSA/tree/master/1622-fancy-sequence) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Adnan2208/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adnan2208/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -253,4 +254,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/Adnan2208/DSA/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/Adnan2208/DSA/tree/master/0788-rotated-digits) |
 <!---LeetCode Topics End-->
