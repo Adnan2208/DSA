@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Adnan2208/DSA/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adnan2208/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Adnan2208/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Adnan2208/DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Adnan2208/DSA/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Adnan2208/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Adnan2208/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Adnan2208/DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Adnan2208/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Adnan2208/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Adnan2208/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Adnan2208/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Adnan2208/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Adnan2208/DSA/tree/master/0268-missing-number) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Adnan2208/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Adnan2208/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Adnan2208/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Adnan2208/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Adnan2208/DSA/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/Adnan2208/DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Adnan2208/DSA/tree/master/0788-rotated-digits) |
