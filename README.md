@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Adnan2208/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adnan2208/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adnan2208/DSA/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Adnan2208/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Adnan2208/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Adnan2208/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Adnan2208/DSA/tree/master/0075-sort-colors) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adnan2208/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Adnan2208/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Adnan2208/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Adnan2208/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Adnan2208/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Adnan2208/DSA/tree/master/0189-rotate-array) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Adnan2208/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Adnan2208/DSA/tree/master/0074-search-a-2d-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adnan2208/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adnan2208/DSA/tree/master/3643-flip-square-submatrix-vertically) |
