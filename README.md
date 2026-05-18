@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Adnan2208/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Adnan2208/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adnan2208/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Adnan2208/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Adnan2208/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adnan2208/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Adnan2208/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Adnan2208/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Adnan2208/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adnan2208/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Adnan2208/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Adnan2208/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Adnan2208/DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Adnan2208/DSA/tree/master/0148-sort-list) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Adnan2208/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Adnan2208/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Adnan2208/DSA/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Adnan2208/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Adnan2208/DSA/tree/master/0169-majority-element) |
