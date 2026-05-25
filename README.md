@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Adnan2208/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Adnan2208/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Adnan2208/DSA/tree/master/2784-check-if-array-is-good) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Adnan2208/DSA/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adnan2208/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adnan2208/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adnan2208/DSA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Adnan2208/DSA/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Adnan2208/DSA/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adnan2208/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Adnan2208/DSA/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Adnan2208/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Adnan2208/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Adnan2208/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adnan2208/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Adnan2208/DSA/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/Adnan2208/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Adnan2208/DSA/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Sliding Window
 |  |
 | ------- |
