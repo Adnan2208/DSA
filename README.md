@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adnan2208/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adnan2208/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Adnan2208/DSA/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/Adnan2208/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Adnan2208/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Adnan2208/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Adnan2208/DSA/tree/master/0075-sort-colors) |
@@ -301,11 +302,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adnan2208/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Adnan2208/DSA/tree/master/0055-jump-game) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Adnan2208/DSA/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Adnan2208/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Adnan2208/DSA/tree/master/0055-jump-game) |
 | [0396-rotate-function](https://github.com/Adnan2208/DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Adnan2208/DSA/tree/master/0788-rotated-digits) |
 <!---LeetCode Topics End-->
