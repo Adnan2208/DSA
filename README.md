@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Adnan2208/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adnan2208/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adnan2208/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Adnan2208/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Adnan2208/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Adnan2208/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
@@ -338,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Adnan2208/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/Adnan2208/DSA/tree/master/1732-find-the-highest-altitude) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Adnan2208/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
