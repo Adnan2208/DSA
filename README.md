@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Adnan2208/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/Adnan2208/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Adnan2208/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Adnan2208/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Adnan2208/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Adnan2208/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Adnan2208/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Adnan2208/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Adnan2208/DSA/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/Adnan2208/DSA/tree/master/1622-fancy-sequence) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Adnan2208/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Adnan2208/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adnan2208/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adnan2208/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -343,5 +345,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Adnan2208/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adnan2208/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
