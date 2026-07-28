@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Adnan2208/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Adnan2208/DSA/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adnan2208/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Adnan2208/DSA/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Adnan2208/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adnan2208/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Adnan2208/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Adnan2208/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Adnan2208/DSA/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adnan2208/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adnan2208/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adnan2208/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Adnan2208/DSA/tree/master/0645-set-mismatch) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Adnan2208/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Adnan2208/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Adnan2208/DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adnan2208/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Adnan2208/DSA/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Adnan2208/DSA/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Adnan2208/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -354,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adnan2208/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adnan2208/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Adnan2208/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
