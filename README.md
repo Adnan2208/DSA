@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Adnan2208/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Adnan2208/DSA/tree/master/0877-stone-game) |
 | [1622-fancy-sequence](https://github.com/Adnan2208/DSA/tree/master/1622-fancy-sequence) |
+| [1903-largest-odd-number-in-string](https://github.com/Adnan2208/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adnan2208/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Adnan2208/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adnan2208/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Adnan2208/DSA/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Adnan2208/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Adnan2208/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1903-largest-odd-number-in-string](https://github.com/Adnan2208/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Adnan2208/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Adnan2208/DSA/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Adnan2208/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adnan2208/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Adnan2208/DSA/tree/master/0055-jump-game) |
+| [1903-largest-odd-number-in-string](https://github.com/Adnan2208/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Adnan2208/DSA/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Adnan2208/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Dynamic Programming
