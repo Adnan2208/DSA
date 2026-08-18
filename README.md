@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adnan2208/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adnan2208/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adnan2208/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Adnan2208/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adnan2208/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Adnan2208/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Adnan2208/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2869-minimum-operations-to-collect-elements](https://github.com/Adnan2208/DSA/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adnan2208/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Adnan2208/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Adnan2208/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Adnan2208/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Adnan2208/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Adnan2208/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
